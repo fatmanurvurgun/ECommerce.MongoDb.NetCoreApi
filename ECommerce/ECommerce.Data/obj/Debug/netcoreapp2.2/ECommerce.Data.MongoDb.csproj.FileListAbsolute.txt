@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.deps.json
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.dll
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\bin\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.pdb
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.dll
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.pdb
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Data\obj\Debug\netcoreapp2.2\ECommerce.Data.MongoDb.csprojAssemblyReference.cache

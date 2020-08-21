@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\bin\Debug\netcoreapp2.2\ECommerce.Core.deps.json
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\bin\Debug\netcoreapp2.2\ECommerce.Core.dll
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\bin\Debug\netcoreapp2.2\ECommerce.Core.pdb
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\obj\Debug\netcoreapp2.2\ECommerce.Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\obj\Debug\netcoreapp2.2\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\obj\Debug\netcoreapp2.2\ECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\obj\Debug\netcoreapp2.2\ECommerce.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\obj\Debug\netcoreapp2.2\ECommerce.Core.dll
+C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Core\obj\Debug\netcoreapp2.2\ECommerce.Core.pdb
