@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj",
         "projectName": "ECommerce.Data.MongoDb",
-        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

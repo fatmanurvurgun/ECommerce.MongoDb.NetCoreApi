@@ -1293,11 +1293,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj",
       "projectName": "ECommerce.Service",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Service\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1316,14 +1316,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Data\\ECommerce.Data.MongoDb.csproj"
             },
-            "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain.Entity\\ECommerce.Domain.Entity.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain.Entity\\ECommerce.Domain.Entity.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain.Entity\\ECommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain.Entity\\ECommerce.Domain.Entity.csproj"
             },
-            "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain.Modal\\ECommerce.Domain.Modal.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain.Modal\\ECommerce.Domain.Modal.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain.Modal\\ECommerce.Domain.Modal.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain.Modal\\ECommerce.Domain.Modal.csproj"
             }
           }
         }

@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
       "projectName": "ECommerce.Domain",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce\\ECommerce.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\ECommerce.MongoDb.NetCoreApi\\ECommerce.MongoDb.NetCoreApi\\ECommerce\\ECommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
