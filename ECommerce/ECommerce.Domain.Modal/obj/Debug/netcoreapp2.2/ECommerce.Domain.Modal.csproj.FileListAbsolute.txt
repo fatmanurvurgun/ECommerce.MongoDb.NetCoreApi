@@ -10,3 +10,15 @@ C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcorea
 C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcoreapp2.2\ECommerce.Core.pdb
 C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.csprojAssemblyReference.cache
 C:\Users\Lenovo\Source\Repos\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcoreapp2.2\ECommerce.Domain.Modal.deps.json
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcoreapp2.2\ECommerce.Domain.Modal.dll
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcoreapp2.2\ECommerce.Domain.Modal.pdb
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcoreapp2.2\ECommerce.Core.dll
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\bin\Debug\netcoreapp2.2\ECommerce.Core.pdb
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.dll
+C:\Users\Lenovo\Documents\GitHub\ECommerce.MongoDb.NetCoreApi\ECommerce.MongoDb.NetCoreApi\ECommerce\ECommerce.Domain.Modal\obj\Debug\netcoreapp2.2\ECommerce.Domain.Modal.pdb

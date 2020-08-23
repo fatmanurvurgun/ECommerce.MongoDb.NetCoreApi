@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "c2b21365e26e87c61c77d2cb3473fd9262ecb8db"
+    "signature": ""
   },
   "compilationOptions": {},
   "targets": {
@@ -24,6 +24,26 @@
           "lib/netstandard2.0/DnsClient.dll": {
             "assemblyVersion": "1.3.1.0",
             "fileVersion": "1.3.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.DependencyInjection/2.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
           }
         }
       },
@@ -77,6 +97,19 @@
             "rid": "win",
             "assetType": "native",
             "fileVersion": "1.1.1.7"
+          }
+        }
+      },
+      "MongoDB.Entities/14.1.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.Extensions.DependencyInjection": "2.1.1",
+          "MongoDB.Driver": "2.11.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MongoDB.Entities.dll": {
+            "assemblyVersion": "14.1.0.0",
+            "fileVersion": "14.1.0.0"
           }
         }
       },
@@ -150,7 +183,8 @@
       },
       "ECommerce.Domain.Entity/1.0.0": {
         "dependencies": {
-          "ECommerce.Domain": "1.0.0"
+          "ECommerce.Domain": "1.0.0",
+          "MongoDB.Entities": "14.1.0"
         },
         "runtime": {
           "ECommerce.Domain.Entity.dll": {}
@@ -179,6 +213,27 @@
       "path": "dnsclient/1.3.1",
       "hashPath": "dnsclient.1.3.1.nupkg.sha512"
     },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RVdgNWT/73M0eCpreGpWv5NmbHFGQzzW+G7nChK8ej84m+d1nzeWrtqcRYnEpKNx3B8V/Uek4tNP0WCaCNjYnQ==",
+      "path": "microsoft.extensions.dependencyinjection/2.1.1",
+      "hashPath": "microsoft.extensions.dependencyinjection.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MgYpU5cwZohUMKKg3sbPhvGG+eAZ/59E9UwPwlrUkyXU+PGzqwZg9yyQNjhxuAWmoNoFReoemeCku50prYSGzA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.1",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512"
+    },
     "MongoDB.Bson/2.11.0": {
       "type": "package",
       "serviceable": true,
@@ -199,6 +254,13 @@
       "sha512": "sha512-2QvanNbk0ZR0vFx9YISoy404x/n6hZ8bK59SmqTdx/YUs3psvjq0fHTxGCXrY9pgjgAmbQCs+9s+Ldag3zvA/Q==",
       "path": "mongodb.driver.core/2.11.0",
       "hashPath": "mongodb.driver.core.2.11.0.nupkg.sha512"
+    },
+    "MongoDB.Entities/14.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bdBsXVnXAo4dQbuNvwSSQBT43n+g9ZDUUwG/1H5rr2EAGdSMj+WQV/iUDqMfwK0kR246TqHHpkx4+Q+lytdMLg==",
+      "path": "mongodb.entities/14.1.0",
+      "hashPath": "mongodb.entities.14.1.0.nupkg.sha512"
     },
     "MongoDB.Libmongocrypt/1.0.0": {
       "type": "package",

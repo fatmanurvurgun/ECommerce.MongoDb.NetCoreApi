@@ -52,7 +52,8 @@ namespace ECommerce.Service.Services
             List<Product> resultList = _productCollection.Find(x => true).ToList();
             foreach (Product item in resultList)
             {
-                item.PriceList = _priceCollection.Find<Price>(x => item.Prices.Contains(x.Id)).ToList();
+                if (item.Prices != null)
+                    item.PriceList = _priceCollection.Find<Price>(x => item.Prices.Contains(x.Id)).ToList();
 
             }
             return ServiceResultModel<List<Product>>.OK(resultList);
@@ -62,18 +63,18 @@ namespace ECommerce.Service.Services
         {
             Product product = _productCollection.Find<Product>(x => x.Id == id).FirstOrDefault();
 
-            if(product==null)
+            if (product == null)
             {
                 return new ServiceResultModel<Product>
                 {
-                    Code=ServiceResultCode.NotFound,
-                    Data=null,
-                    Message="This Record Is Not Found, Please Check Your Id!",
-                    ResultType=OperationResultType.Warn
+                    Code = ServiceResultCode.NotFound,
+                    Data = null,
+                    Message = "This Record Is Not Found, Please Check Your Id!",
+                    ResultType = OperationResultType.Warn
                 };
             }
 
-            if (product.Prices.Count > 0)
+            if (product.Prices != null)
             {
                 var tempList = new List<Price>();
                 foreach (var priceId in product.Prices)

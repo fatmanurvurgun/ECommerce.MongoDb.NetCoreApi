@@ -32,7 +32,8 @@ namespace ECommerce.Api
         [HttpGet("{id}")]
         public ActionResult Get(string id)
         {
-            if (string.IsNullOrEmpty(id) || Convert.ToInt32(id) < 0)
+            int idNumber;
+            if (string.IsNullOrEmpty(id) || int.TryParse(id, out idNumber) && idNumber < 0)
             {
                 base.ResponseModel = new RerponseModel
                 {
@@ -99,7 +100,8 @@ namespace ECommerce.Api
         [HttpDelete("{id}")]
         public ActionResult Delete(string id)
         {
-            if (string.IsNullOrEmpty(id) || Convert.ToInt32(id) < 0)
+            int idNumber;
+            if (string.IsNullOrEmpty(id) || int.TryParse(id, out idNumber) && idNumber < 0)
             {
                 base.ResponseModel = new RerponseModel
                 {

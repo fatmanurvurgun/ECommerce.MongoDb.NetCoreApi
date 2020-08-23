@@ -32,7 +32,8 @@ namespace ECommerce.Api
         [HttpGet("{id}")]
         public ActionResult Get(string id)
         {
-            if (string.IsNullOrEmpty(id) || Convert.ToInt32(id) < 0)
+            int idNumber;
+            if (string.IsNullOrEmpty(id) || int.TryParse(id, out idNumber) && idNumber < 0)
             {
                 base.ResponseModel = new RerponseModel
                 {
@@ -53,7 +54,7 @@ namespace ECommerce.Api
                     Message = serviceResult.Message,
                     ResultType = serviceResult.ResultType
                 };
-                return Ok(serviceResult);
+                return Ok(base.ResponseModel);
             }
             return Ok(serviceResult);
         }
@@ -100,7 +101,8 @@ namespace ECommerce.Api
         [HttpDelete("{id}")]
         public ActionResult Delete(string id)
         {
-            if (string.IsNullOrEmpty(id) || Convert.ToInt32(id) < 0)
+            int idNumber;
+            if (string.IsNullOrEmpty(id) || int.TryParse(id, out idNumber) && idNumber < 0)
             {
                 base.ResponseModel = new RerponseModel
                 {
@@ -112,19 +114,19 @@ namespace ECommerce.Api
             }
 
             var serviceResult = _productService.DeleteProduct(id);
-
             base.ResponseModel = new RerponseModel
             {
                 Data = serviceResult.Data,
                 ResultType = serviceResult.ResultType,
                 Message = serviceResult.ResultType == Core.EnumDefinitions.OperationResultType.Success ? "Record Deleted Successfully" : string.Format("Warning... {0}", serviceResult.Message)
             };
-            return Ok(serviceResult);
+
+            return Ok(base.ResponseModel);
         }
 
         // PUT api/<controller>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
+        public void Put(int id, [FromBody] string value)
         {
         }
     }
